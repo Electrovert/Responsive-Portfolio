@@ -7,6 +7,7 @@ body {
 header {
     font-size: 40px;
     line-height: 50px;
+    padding: 10px;
     background-color: white;
     color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -48,11 +49,10 @@ header {
 }
 
 img {
-    width: 245px;
     height: 250px;
     position: relative;
-    bottom: 450px;
-    right: 650px;
+    bottom: 610px;
+    right: 700px;
 
 }
 
@@ -92,12 +92,16 @@ img {
 
 hr {
     height: 5px solid gray;
+    position: relative;
+    bottom: 150px;
 }
 
 p {
     font-size: 23px;
     text-align: right;
     padding: 10px;
+    position: relative;
+    bottom: 100px;
 
 }
 
